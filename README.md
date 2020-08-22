@@ -1,4 +1,4 @@
 # machine-learning-pearls
 
-## TODO:
+### TODO:
 K-means with animation
